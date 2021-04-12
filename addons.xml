@@ -16,7 +16,7 @@
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Wizard</summary>
-    <description lang="en">Yeti Wizard allows you to download and install latest version of Yeti Build</description>
+    <description lang="en">Yeti Wizard allows users to download and install Yeti Build</description>
     <platform>all</platform>
   </extension>
 </addon>
